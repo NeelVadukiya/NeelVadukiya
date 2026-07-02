@@ -3,8 +3,10 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Neel%20Vadukiya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer%20%7C%20Django%20%7C%20Backend%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing SVG (no link wrapper) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+%7C+Flask+%7C+DRF+Developer;RESTful+API+%26+Backend+Engineer;Turning+Ideas+Into+Production-Ready+Code" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+%7C+Flask+%7C+DRF+Developer;RESTful+API+%26+Backend+Engineer;Turning+Ideas+Into+Production-Ready+Code" alt="Typing SVG" />
+</a>
 
 <br/>
 

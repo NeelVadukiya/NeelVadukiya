@@ -20,64 +20,70 @@
 
 ## 👋 About Me
 
-- 🐍 **Python Full Stack Developer** with hands-on experience building production-ready web applications
-- 🏢 Completed a **6-month internship** as a Python Full Stack Developer at **Brainybeam Infotech Pvt. Ltd.**, Ahmedabad
-- 🔧 Skilled in **Django, Flask, and Django REST Framework (DRF)** for backend and API development
-- 🗄️ Experienced in **relational database design** using MySQL, PostgreSQL, SQLite, and Django ORM
-- 🎨 Comfortable building responsive interfaces with **HTML5, CSS3, Bootstrap 5, and JavaScript**
-- 🤝 Worked in an **Agile team environment**, following clean Git/GitHub version control workflows and code reviews
+I'm a **Python Full Stack Developer** who enjoys turning real business problems into clean, working applications — from database schema to a working UI. Over a **6-month internship at Brainybeam Infotech Pvt. Ltd.**, I built production-ready features end to end using Django, Flask, and Django REST Framework, working inside an Agile team and a proper Git/GitHub review process.
+
+- 🧱 Comfortable across the **full stack** — backend logic, REST APIs, relational databases, and responsive frontends
+- 🔗 Built and consumed **RESTful APIs** with Django REST Framework for real client-facing systems
+- 🗄️ Designed schemas and wrote optimized queries across **MySQL, PostgreSQL, and SQLite** using Django ORM
+- 🧪 Follow **MVC architecture** and clean code practices — readable, maintainable, review-friendly
+- 🤝 Worked in a **cross-functional Agile team**, participating in code reviews and structured Git workflows
 - 🎓 **B.Tech in Computer Engineering**, Ganpat University (2023 – 2026)
-- 🎯 Currently looking for **Python Developer / Django Developer / Backend Developer** opportunities
+- 🎯 Currently open to **Python Developer / Django Developer / Backend Developer** roles
 
 <br/>
 
 ## 🛠️ Tech Stack
 
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/>
 
-**Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+**Backend Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" height="32"/>
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+**Databases & ORM**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Django%20ORM-092E20?style=for-the-badge&logo=django&logoColor=white" height="32"/>
+
+</td>
+<td valign="top" width="50%">
 
 **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/>
 
 **Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" height="32"/>
 
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+**Tools & Workflow**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -89,7 +95,7 @@
 - Implemented Django ORM models with stock deduction on purchase, price snapshot at checkout, and an admin dashboard for real-time order tracking
 
 ### 💊 [PharmaCentral — Pharmacy Management System](https://github.com/NeelVadukiya/pharmacentral_project)
-`Python` `Django` `DRF` `SQLite3` `HTML5` `CSS3` `Bootstrap 5` `JavaScript`
+`Python` `Django` `DRF` `SQLite3` `HTML5` `CSS3` `JavaScript`
 - Developed a real-time pharmacy system to manage drug inventory, sales records, customer accounts, and debtor tracking with fast keyword-based drug search
 - Implemented dual-parameter automated alerts for expired medicines and low-stock thresholds, reducing manual monitoring workload for pharmacy staff
 
@@ -114,28 +120,27 @@
 
 ## 🌐 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/English-Professional-2563eb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Gujarati-Native-2563eb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hindi-Fluent-2563eb?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/badge/English-Professional-2563eb?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Gujarati-Native-2563eb?style=flat-square" height="28"/>
+<img src="https://img.shields.io/badge/Hindi-Fluent-2563eb?style=flat-square" height="28"/>
 
+<br/>
 <br/>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/neel-vadukiya-495099285">
+<a href="https://www.linkedin.com/in/neel-vadukiya-495099285" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:neelvadukiya789@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://neel-vadukiya-portfolio.netlify.app">
+<a href="https://neel-vadukiya-portfolio.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://github.com/NeelVadukiya">
+<a href="https://github.com/NeelVadukiya" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
